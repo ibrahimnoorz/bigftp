@@ -1,0 +1,5 @@
+BigFtp
+ChangeLog
+	- v1.4
+		: Added support for ftp and ftps modes
+		: Added Support for simultaneous file transfer to ftp
